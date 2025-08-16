@@ -1,0 +1,4 @@
+assumptions :
+1. trains traverse only one path that is it won't go to two immediate neighbours stations from a single station immediately.
+2. trains don't circle back to the source 
+3. source and destination won't be same 

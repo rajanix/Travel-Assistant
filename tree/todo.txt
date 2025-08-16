@@ -1,0 +1,6 @@
+1. quick sort -->
+2. no of comparisons -->  
+3. BST (journey code as comparsion) --> check it once
+4. shortest and longest paths --> complete it for remove!!!
+5. imbalance-->
+

@@ -1,0 +1,5 @@
+1. check out the insert function and delete function.
+2. doubts on insert
+3. check if completions work
+4. check if KMP works perfectly insync with the program
+(KMP algo and h matrix are almost correct , KMP algo is same as in CLRS). 

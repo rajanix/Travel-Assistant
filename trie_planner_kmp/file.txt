@@ -1,0 +1,25 @@
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "MUMBAI" (for station name "MUMBAI") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "MUMBRA" (for station name "MUMBRA") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "MUMBAIS" (for station name "MUMBAIS") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Delete station name"
+Successfully deleted "MUMBAI" (for station name "MUMBAI") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Delete station name"
+Successfully deleted "MUMBRA" (for station name "MUMBRA") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Delete station name"
+Successfully deleted "MUMBAIS" (for station name "MUMBAIS") in trie
+Success
+Executing "Exit admin user"

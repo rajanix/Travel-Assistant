@@ -1,0 +1,6 @@
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "chennai" (for station name "chennai") in trie
+Success
+Executing "Exit admin user"
+Executing "Find journeys"
