@@ -1,0 +1,6 @@
+ADD 1 12
+ADD 2 24
+ADD 3 18
+ADD 4 6
+ADD 5 9
+CS store.txt
